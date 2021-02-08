@@ -1,2 +1,2 @@
 # Range-Queries
-starting on advance algorithms ;)
+**starting on advance algorithms ;)**
